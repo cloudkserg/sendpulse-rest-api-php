@@ -1,11 +1,5 @@
 {
   "name": "sendpulse/rest-api",
-  "description": "Sendpulse REST API client library",
-  "keywords": [
-    "sendpulse",
-    "rest",
-    "api"
-  ],
   "license": "MIT",
   "authors": [
     {
@@ -17,9 +11,6 @@
       "email": "a.moroz@sendpulse.com"
     }
   ],
-  "require": {
-    "php": ">=5.4.0"
-  },
   "autoload": {
     "psr-4": {
       "Sendpulse\\RestApi\\": "src/"
