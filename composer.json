@@ -11,6 +11,7 @@
       "email": "a.moroz@sendpulse.com"
     }
   ],
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Sendpulse\\RestApi\\": "src/"
